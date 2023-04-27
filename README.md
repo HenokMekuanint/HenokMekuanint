@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenokMekuanint
 - 👀 I’m interested in Web and android programming
-- 🌱 I’m currently learning Data structure and algorithm and Backend Development
+- 🌱 I’m currently learning Data structure and algorithm,Backend Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my website 
 -        https://henokmekuanint.github.io/PORTFOLIO/
