@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Getx**
 
-- 👯 I’m looking to collaborate on **Backend Developent**
+- 👯 I’m looking to collaborate on **Backend Developemt**
 
 - 👨‍💻 All of my projects are available at [https://henokmekuanint.github.io/PORTFOLIO/](https://henokmekuanint.github.io/PORTFOLIO/)
 
