@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Flutter ,MERN**
 
-- 📫 How to reach me **henokmekuanint@gmail.com**
+- 📫 How to reach me **(https://henokmekuanint.github.io/PORTFOLIO/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
