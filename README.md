@@ -12,7 +12,7 @@
 ---
 
 🔧 **About Me**  
-I’m a senior software engineer with 8+ years of experience building scalable, production-grade applications using **Flutter**, **Python**, **TypeScript**, and the **MERN stack**. I’ve led projects in **FinTech**, **e-learning**, **ride-sharing**, and **AI-powered platforms**, delivering mobile and web apps with clean architecture and real-time features.
+I’m a senior software engineer with 5+ years of experience building scalable, production-grade applications using **Flutter**, **Python**, **TypeScript**, and the **MERN stack**. I’ve led projects in **FinTech**, **e-learning**, **ride-sharing**, and **AI-powered platforms**, delivering mobile and web apps with clean architecture and real-time features.
 
 - 🔭 Currently building: **AI-powered Mobile & Web Applications**
 - 🚀 Passionate about: **System Architecture, AI Integration, Clean Code**
