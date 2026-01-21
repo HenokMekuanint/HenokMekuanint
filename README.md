@@ -17,7 +17,6 @@ I’m a senior software engineer with 5+ years of experience building scalable, 
 - 🔭 Currently building: **AI-powered Mobile & Web Applications**
 - 🚀 Passionate about: **System Architecture, AI Integration, Clean Code**
 - 🧠 Learning: Advanced AI Tools, LLM Evaluation, WebSocket Optimization
-- 📁 Portfolio: [Portfolio](https://henok-asfaw.vercel.app/)
 
 ---
 
