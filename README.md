@@ -1,53 +1,155 @@
-# 👋 Hi, I'm Henok Mekuanint
-
 <div align="center">
 
+# 🚀 HENOK MEKUANINT
+
 Typing SVG
+
+Roles
 
 LinkedIn
 Portfolio
 LeetCode
+
 Profile Views
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧬 Engineer Profile
 
-I'm a Senior Software Engineer specializing in Full Stack Development, Mobile Applications, Backend Systems, and AI Powered Solutions.
+<table>
+<tr>
+<td width="55%">
 
-Over the years, I've built scalable products across FinTech, Banking, E-Learning, Transportation, Marketplaces, and AI platforms using Flutter, Python, Django, FastAPI, NestJS, React, and modern cloud technologies.
+### ⚡ Identity
 
-### Highlights
+| Field | Value |
+|---------|---------|
+| Name | Henok Mekuanint |
+| Role | Senior Flutter & Full Stack Engineer |
+| Specialty | Mobile Apps, AI Systems, Backend Engineering |
+| Experience | 6+ Years |
+| Location | Addis Ababa, Ethiopia |
+| LeetCode | 500+ Problems Solved |
 
-• 📱 Built and maintained production mobile applications used by thousands of users
+</td>
 
-• 🤖 Working with LLM Evaluation, AI Agents, RAG Systems, and AI Automation
+<td width="45%">
 
-• 🏗️ Strong advocate of Clean Architecture and scalable system design
+### 🎯 Mission
 
-• 💡 Passionate about solving real business problems through software
+Build scalable products that combine beautiful mobile experiences, robust backend systems, and modern AI capabilities.
 
-• 🧠 Solved 500+ LeetCode problems
+Mission
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+# 📱 Production Applications
 
-### Mobile Development
+### 🛒 JiJi Ethiopia
 
-Flutter
+One of Ethiopia's largest marketplace applications with over 1M+ downloads.
 
-### Backend Development
+### 🏦 ABa Mobile Banking
 
-Backend
+Official mobile banking platform for Amhara Bank serving thousands of customers.
 
-### Frontend Development
+### 💳 SantimPay
+
+Digital payment and wallet solution enabling secure financial transactions.
+
+### 🍽️ RateEat
+
+Restaurant discovery and rating platform.
+
+### 📦 Octobid Supplier
+
+B2B procurement and supplier management platform serving the Saudi Arabian market.
+
+---
+
+# ⚡ Core Expertise
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 📱 Mobile Engineering
+
+Flutter  
+Android  
+iOS  
+BLoC  
+Firebase  
+Clean Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend Systems
+
+Python  
+Django  
+FastAPI  
+NestJS  
+PostgreSQL  
+MongoDB
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI Engineering
+
+LLM Evaluation  
+AI Agents  
+RAG Systems  
+Prompt Engineering  
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud & DevOps
+
+Docker  
+AWS  
+GCP  
+CI/CD  
+GitHub Actions
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Armory
+
+<div align="center">
+
+### Mobile
+
+Mobile
+
+### Frontend
 
 Frontend
 
-### Databases
+### Backend
+
+Backend
+
+### Database
 
 Database
 
@@ -55,99 +157,56 @@ Database
 
 Cloud
 
-### AI & Machine Learning
+### AI & ML
 
 AI
 
----
-
-## 📱 Featured Production Apps
-
-### JiJi Ethiopia
-
-One of Ethiopia's largest marketplace applications with over 1M+ downloads.
-
-### SantimPay
-
-Digital wallet and payment platform serving thousands of users.
-
-### ABa Mobile Banking
-
-Official mobile banking application for Amhara Bank.
-
-### RateEat
-
-Restaurant discovery and food rating platform.
-
-### Octobid Supplier
-
-B2B procurement and supplier management platform for the Saudi Arabian market.
+</div>
 
 ---
 
-## 💼 Professional Experience
+# 🤖 AI & LLM Engineering
 
-### Head of Development & AI Team
-
-Leading software architecture, AI initiatives, technical mentorship, and product development.
-
-### Senior Flutter Developer
-
-Building production-ready mobile applications with scalable architecture and modern development practices.
-
-### Python & AI Engineer
-
-Developing backend systems, AI integrations, LLM evaluation workflows, and machine learning solutions.
+yaml Specializations:   - LLM Evaluation   - AI Agents   - RAG Applications   - Prompt Engineering   - OpenAI Integrations   - Intelligent Automation   - Machine Learning Workflows 
 
 ---
 
-## 🤖 AI & LLM Engineering
-
-### Areas of Expertise
-
-• LLM Evaluation
-
-• AI Agents
-
-• RAG Systems
-
-• Prompt Engineering
-
-• OpenAI Integrations
-
-• LangChain Workflows
-
-• AI Powered Applications
-
-• Intelligent Automation
-
----
-
-## 🏆 Competitive Programming
+# 🏆 Competitive Programming
 
 <div align="center">
 
-LeetCode Stats
+LeetCode
 
 </div>
 
-### Achievements
+### Highlights
 
 • 500+ LeetCode Problems Solved
 
 • Strong Data Structures & Algorithms Foundation
 
-• Advanced Problem Solving Skills
+• Advanced Problem Solving & Optimization
 
 ---
 
-## 📊 GitHub Analytics
+# 💼 Experience Timeline
+
+| Company | Position |
+|----------|----------|
+| 🚀 Hamer Technologies | Head of Development & AI Team |
+| 📦 Octobid | Senior Flutter Developer & Data Scientist |
+| 🤖 elunic AG | Django & LLM Engineer |
+| 🎓 Aladia | Full Stack & AI Engineer |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenokMekuanint&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HenokMekuanint&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokMekuanint&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokMekuanint&layout=compact&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenokMekuanint&theme=tokyonight"/>
 
@@ -155,26 +214,20 @@ LeetCode Stats
 
 ---
 
-## 🌍 Current Focus
+# 🖥️ Developer Console
 
-yaml Mobile Development:   - Flutter   - Android   - iOS  Backend Development:   - Python   - Django   - FastAPI   - NestJS  Artificial Intelligence:   - LLM Evaluation   - AI Agents   - RAG Systems   - Automation  Cloud:   - AWS   - GCP   - Docker 
+bash $ whoami  Henok Mekuanint  Senior Flutter Developer Full Stack Engineer Python & AI Engineer  Specializing in: • Mobile Applications • Banking Systems • AI Powered Products • Backend Architecture 
 
 ---
 
-## 📫 Let's Connect
+# 🌍 Current Focus
 
-💼 LinkedIn: https://www.linkedin.com/in/henok-a-595966226/
-
-🌐 Portfolio: https://henok-asfaw.vercel.app/
-
-💻 GitHub: https://github.com/HenokMekuanint
-
-🧩 LeetCode: https://leetcode.com/henokmek
+yaml Mobile:   - Flutter   - Android   - iOS  Backend:   - Python   - FastAPI   - Django   - NestJS  AI:   - AI Agents   - RAG Systems   - LLM Evaluation   - Automation 
 
 ---
 
 <div align="center">
 
-### Building Scalable Software • AI Powered Solutions • Clean Architecture
+### 🚀 Building Production Software • AI Solutions • Mobile Experiences
 
-</div>
+</
