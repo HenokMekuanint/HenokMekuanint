@@ -207,16 +207,19 @@ LeetCode
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henokmekuanint&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henokmekuanint&layout=compact&theme=github_dark"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=henokmekuanint&theme=github-dark-blue"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=henokmekuanint&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henokmekuanint&layout=compact&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=henokmekuanint&theme=github-dark-blue" />
+
+</div>
 
 ---
 
