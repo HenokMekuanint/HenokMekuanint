@@ -1,64 +1,180 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://henokmekuanint.github.io/PORTFOLIO/)
+# 👋 Hi, I'm Henok Mekuanint
 
-<h1 align="center">Hi 👋, I'm Henok Mekuanint</h1>
-<h3 align="center">Senior Full Stack Developer | Flutter Expert | Python & JavaScript Specialist</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+Typing SVG
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=henokmekuanint&label=Profile%20views&color=0e75b6&style=flat" alt="henokmekuanint" />
-</p>
+LinkedIn
+Portfolio
+LeetCode
+Profile Views
 
----
-
-🔧 **About Me**  
-I’m a senior software engineer with 5+ years of experience building scalable, production-grade applications using **Flutter**, **Python**, **TypeScript**, and the **MERN stack**. I’ve led projects in **FinTech**, **e-learning**, **ride-sharing**, and **AI-powered platforms**, delivering mobile and web apps with clean architecture and real-time features.
-
-- 🔭 Currently building: **AI-powered Mobile & Web Applications**
-- 🚀 Passionate about: **System Architecture, AI Integration, Clean Code**
-- 🧠 Learning: Advanced AI Tools, LLM Evaluation, WebSocket Optimization
+</div>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+## 🚀 About Me
 
-<p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-</p>
+I'm a Senior Software Engineer specializing in Full Stack Development, Mobile Applications, Backend Systems, and AI Powered Solutions.
 
----
+Over the years, I've built scalable products across FinTech, Banking, E-Learning, Transportation, Marketplaces, and AI platforms using Flutter, Python, Django, FastAPI, NestJS, React, and modern cloud technologies.
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.leetcode.com/henokmek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="henokmek" height="30" width="40" />
-  </a>
-  <a href="https://henokmekuanint.github.io/PORTFOLIO/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
-  </a>
-</p>
+### Highlights
+
+• 📱 Built and maintained production mobile applications used by thousands of users
+
+• 🤖 Working with LLM Evaluation, AI Agents, RAG Systems, and AI Automation
+
+• 🏗️ Strong advocate of Clean Architecture and scalable system design
+
+• 💡 Passionate about solving real business problems through software
+
+• 🧠 Solved 500+ LeetCode problems
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+## 🛠 Tech Stack
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henokmekuanint&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
+### Mobile Development
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henokmekuanint&show_icons=true&locale=en" alt="github stats" />
-</p>
+Flutter
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henokmekuanint" alt="github streak" />
-</p>
+### Backend Development
+
+Backend
+
+### Frontend Development
+
+Frontend
+
+### Databases
+
+Database
+
+### Cloud & DevOps
+
+Cloud
+
+### AI & Machine Learning
+
+AI
+
+---
+
+## 📱 Featured Production Apps
+
+### JiJi Ethiopia
+
+One of Ethiopia's largest marketplace applications with over 1M+ downloads.
+
+### SantimPay
+
+Digital wallet and payment platform serving thousands of users.
+
+### ABa Mobile Banking
+
+Official mobile banking application for Amhara Bank.
+
+### RateEat
+
+Restaurant discovery and food rating platform.
+
+### Octobid Supplier
+
+B2B procurement and supplier management platform for the Saudi Arabian market.
+
+---
+
+## 💼 Professional Experience
+
+### Head of Development & AI Team
+
+Leading software architecture, AI initiatives, technical mentorship, and product development.
+
+### Senior Flutter Developer
+
+Building production-ready mobile applications with scalable architecture and modern development practices.
+
+### Python & AI Engineer
+
+Developing backend systems, AI integrations, LLM evaluation workflows, and machine learning solutions.
+
+---
+
+## 🤖 AI & LLM Engineering
+
+### Areas of Expertise
+
+• LLM Evaluation
+
+• AI Agents
+
+• RAG Systems
+
+• Prompt Engineering
+
+• OpenAI Integrations
+
+• LangChain Workflows
+
+• AI Powered Applications
+
+• Intelligent Automation
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+LeetCode Stats
+
+</div>
+
+### Achievements
+
+• 500+ LeetCode Problems Solved
+
+• Strong Data Structures & Algorithms Foundation
+
+• Advanced Problem Solving Skills
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenokMekuanint&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokMekuanint&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HenokMekuanint&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌍 Current Focus
+
+yaml Mobile Development:   - Flutter   - Android   - iOS  Backend Development:   - Python   - Django   - FastAPI   - NestJS  Artificial Intelligence:   - LLM Evaluation   - AI Agents   - RAG Systems   - Automation  Cloud:   - AWS   - GCP   - Docker 
+
+---
+
+## 📫 Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/henok-a-595966226/
+
+🌐 Portfolio: https://henok-asfaw.vercel.app/
+
+💻 GitHub: https://github.com/HenokMekuanint
+
+🧩 LeetCode: https://leetcode.com/henokmek
+
+---
+
+<div align="center">
+
+### Building Scalable Software • AI Powered Solutions • Clean Architecture
+
+</div>
